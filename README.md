@@ -1,1 +1,10 @@
 # Arduino-Gas-Leak
+#required materials:
+MQ2 Gas Sensor
+LCD 16x2 I2C
+Arduino Uno
+Project board or PCB
+Jumper wires
+Project box x4
+Resistors as needed
+Arduino IDE Software
